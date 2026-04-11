@@ -1,51 +1,50 @@
 <h1 align="center">Hey 👋 I'm iDewzy</h1>
-<p align="center"><i>"Transforming complex logic into functional reality."</i></p>
+<p align="center"><i>"Building robust systems and efficient digital solutions."</i></p>
 
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,java,py,nodejs,cpp,js,html,css,mysql,linux,docker" height="55" alt="tech stack" />
+  <img src="https://streak-stats.demolab.com?user=iDewzy&theme=dark&hide_border=true" height="130" alt="streak" />
+  <img src="https://skillicons.dev/icons?i=cs,java,py,nodejs,cpp,js,html,css,mysql,linux,docker" height="50" alt="tech stack" />
+</div>
+
+###
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDewzy/iDewzy/output/pacman-contribution-graph-dark.svg">
+    <img alt="pacman graph" src="https://raw.githubusercontent.com/iDewzy/iDewzy/output/pacman-contribution-graph.svg" width="50%">
+  </picture>
 </div>
 
 ###
 
 <div align="left">
 
-## Systems & Game Logic Specialist
-Developing high-performance server architecture, dedicated infrastructure, and bespoke digital solutions.
+## Software & Infrastructure Engineering
+Developing high-performance backend architectures, desktop applications, and scalable digital ecosystems.
 
 ---
 
-### Custom Environments
-* **CS2 Ecosystem:** Specialized **core extensions** and competitive server tuning.
-* **Minecraft Networks:** Custom server-side **integrations** and scalable infrastructure.
-* **System Stability:** Low-latency server deployments and automated management.
+### Core Focus Areas
+* **System Integration:** Specialized **core extensions** and high-efficiency system tuning.
+* **Network Infrastructure:** Custom server-side **integrations** and scalable backend management.
+* **Performance Optimization:** Low-latency deployments and automated resource handling.
 
 ---
 
 ### Technical Inventory
-* **Core Languages:** C# / Java / Python / C++ / Node.js
-* **Backend:** Optimized Server cores, API integrations (Steam, MoJang).
-* **Environment:** Dedicated Linux servers, Containerization (Docker).
+* **Languages:** C# / Java / Python / C++ / Node.js / SQL
+* **Backend:** Optimized system cores and professional API integrations.
+* **Environment:** Linux server administration and Containerization (Docker).
 
 ---
 
 ### About Me
-- 🔭 **Working on:** Advanced **CS2 and Minecraft bespoke integrations**.
-- 🌱 **Learning:** Intricacies of **Source2 SDK features** for performance-critical logic.
-- ⚡ **Fun fact:** I start coding the core logic before the main menu interface exists.
+- 🔭 **Currently working on:** Advanced **custom integrations** and backend logic.
+- 🌱 **Learning:** High-level memory management and system architecture patterns.
+- ⚡ **Fun fact:** I focus on the core logic long before the UI takes shape.
 
-</div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=iDewzy&theme=dark&hide_border=true" height="130" alt="streak" />
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iDewzy/iDewzy/output/pacman-contribution-graph-dark.svg">
-    <img alt="pacman graph" src="https://raw.githubusercontent.com/iDewzy/iDewzy/output/pacman-contribution-graph.svg" width="60%">
-  </picture>
 </div>
 
 ---
