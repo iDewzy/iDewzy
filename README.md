@@ -5,6 +5,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=iDewzy&theme=dark&hide_border=true" height="130" alt="streak" /> </br>
+</br>
   <img src="https://skillicons.dev/icons?i=cs,java,py,nodejs,cpp,js,html,css,mysql,linux,docker" height="50" alt="tech stack" />
 </div>
 
