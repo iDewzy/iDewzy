@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋 I'm iDewzy</h1>
+<h1 align="center">Hey 👋 I'm Dewzy // Hamza </h1>
 <p align="center"><i>"Building robust systems and efficient digital solutions."</i></p>
 
 ###
