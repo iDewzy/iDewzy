@@ -10,14 +10,6 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" alt="linkedin" />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&style=for-the-badge" height="25" alt="twitter" />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="25" alt="twitch" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://streak-stats.demolab.com?user=iDewzy&theme=dark&hide_border=true" height="150" alt="streak graph" />
   <img src="https://github-readme-stats.vercel.app/api?username=iDewzy&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" height="150" alt="stats" />
 </div>
@@ -32,7 +24,7 @@ Developing high-performance server architecture, robust desktop software, and cu
 ---
 
 ### About Me
-- 🔭 **Currently working on:** Advanced **CS2 and Minecraft server mod's and plugin's**.
+- 🔭 **Currently working on:** Advanced **CS2 and Minecraft custom integrations**.
 - 👯 **Collaborating on:** Scalable **backend systems** and performance-critical game logic.
 - 🌱 **Currently learning:** Advanced **C++ memory management** and Source2 SDK intricacies.
 - ⚡ **Fun fact:** I start coding the core logic before the main menu interface exists.
@@ -40,8 +32,8 @@ Developing high-performance server architecture, robust desktop software, and cu
 ---
 
 ### Game Engine & Server Logic
-* **CS2 Ecosystem:** Advanced plugin engineering and competitive server tuning.
-* **Minecraft Networks:** Custom core development and scalable infrastructure.
+* **CS2 Ecosystem:** Specialized **core extensions** and competitive server tuning.
+* **Minecraft Networks:** Custom server-side logic and scalable infrastructure.
 * **System Stability:** Low-latency server deployments and automated management.
 
 </div>
