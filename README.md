@@ -1,5 +1,8 @@
-<h1 align="center">Hey 👋 I'm Dewzy // Hamza </h1>
+<h1 align="center">Hey 👋 I'm Dewzy // Hamza </h1> 
 <p align="center"><i>"Building robust systems and efficient digital solutions."</i></p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=iDewzy&label=Profile%20views&color=000000&style=flat-square" alt="views" />
+</p>
 
 ###
 
